@@ -1,0 +1,8 @@
+
+{
+    "name": "Yash Bhedaru",
+    "version": "1.0",
+    "description": "build an extension",
+    "manifest_version": 2,
+    "browser_action": { "default_popup": "index.html" }
+}
